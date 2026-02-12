@@ -1,7 +1,3 @@
-Here’s a **detailed but simple README** you can paste directly into your project.
-
----
-
 # 📄 Research Paper Analyst (Local RAG App)
 
 A simple local **Research Paper Question-Answering app** built with **Streamlit + LlamaIndex + Groq**.
@@ -190,3 +186,4 @@ Easy to understand code.
 ## 📜 License
 
 Free to use for learning and educational purposes.
+
